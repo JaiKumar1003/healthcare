@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-appointment-booking",
+  "version": "1.0.0",
+  "description": "Healthcare appointment booking application built with React and TypeScript",
+  "framework": "react",
+  "buildTool": "vite",
+  "language": "typescript",
+  "styling": "tailwindcss",
+  "created": "2025-01-27",
+  "lastModified": "2025-01-27"
+}
